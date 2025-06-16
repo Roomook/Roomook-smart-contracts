@@ -1,0 +1,11 @@
+{
+  "name": "rmk_token",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "anchor test"
+  },
+  "devDependencies": {
+    "@project-serum/anchor": "^0.24.2",
+    "mocha": "^8.4.0"
+  }
+}
